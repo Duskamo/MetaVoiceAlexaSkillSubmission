@@ -1,0 +1,9 @@
+#!/bin/bash
+
+#echo "Creating lambda file..."
+
+file="$1"
+
+ask api create-skill -f ${file}
+
+#echo "Lambda creation complete..."

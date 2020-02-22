@@ -1,0 +1,1243 @@
+1517947433930	geckodriver	INFO	geckodriver 0.19.1
+1517947433936	geckodriver	INFO	Listening on 127.0.0.1:34207
+1517947435212	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4e9Vs4bd96lT"
+1517947436374	Marionette	INFO	Enabled via --marionette
+1517947439555	Marionette	INFO	Listening on port 38759
+1517947439647	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 24715, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517947508427	geckodriver	INFO	geckodriver 0.19.1
+1517947508461	geckodriver	INFO	Listening on 127.0.0.1:42589
+1517947509646	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.cLJxSHaGGkBB"
+1517947510801	Marionette	INFO	Enabled via --marionette
+1517947513712	Marionette	INFO	Listening on port 39947
+1517947513802	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 24891, Gecko_IOThread] WARNING: pipe error (96): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517947775692	geckodriver	INFO	geckodriver 0.19.1
+1517947775722	geckodriver	INFO	Listening on 127.0.0.1:52253
+1517947777352	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ZHpIrxV5wLXn"
+1517947784949	geckodriver	INFO	geckodriver 0.19.1
+1517947784968	geckodriver	INFO	Listening on 127.0.0.1:57477
+1517947786311	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.5LV71tnO59wP"
+1517947787983	Marionette	INFO	Enabled via --marionette
+1517947790606	Marionette	INFO	Listening on port 39715
+1517947790647	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517947812389	geckodriver	INFO	geckodriver 0.19.1
+1517947812405	geckodriver	INFO	Listening on 127.0.0.1:58151
+1517947813494	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.8uBErQ5nH6iS"
+1517947814262	Marionette	INFO	Enabled via --marionette
+1517947817211	Marionette	INFO	Listening on port 40213
+1517947817320	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 25341, Gecko_IOThread] WARNING: pipe error (82): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517947994618	geckodriver	INFO	geckodriver 0.19.1
+1517947994639	geckodriver	INFO	Listening on 127.0.0.1:38351
+1517947995900	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ZiYWuFabTsJT"
+1517947996484	Marionette	INFO	Enabled via --marionette
+1517947998899	Marionette	INFO	Listening on port 34281
+1517947998950	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 25559, Gecko_IOThread] WARNING: pipe error (98): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517948168903	geckodriver	INFO	geckodriver 0.19.1
+1517948168919	geckodriver	INFO	Listening on 127.0.0.1:40645
+1517948170026	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.pg5gswFyyKbg"
+1517948170734	Marionette	INFO	Enabled via --marionette
+1517948173170	Marionette	INFO	Listening on port 40985
+1517948173245	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517948189655	geckodriver	INFO	geckodriver 0.19.1
+1517948189666	geckodriver	INFO	Listening on 127.0.0.1:35241
+1517948190793	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.RamrAVd52htS"
+1517948191466	Marionette	INFO	Enabled via --marionette
+1517948193841	Marionette	INFO	Listening on port 46411
+1517948193946	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 25898, Gecko_IOThread] WARNING: pipe error (81): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517949165681	geckodriver	INFO	geckodriver 0.19.1
+1517949165699	geckodriver	INFO	Listening on 127.0.0.1:33303
+1517949166797	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.aZgiLn6ob26z"
+1517949167377	Marionette	INFO	Enabled via --marionette
+1517949169778	Marionette	INFO	Listening on port 44195
+1517949169862	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517949185952	geckodriver	INFO	geckodriver 0.19.1
+1517949185962	geckodriver	INFO	Listening on 127.0.0.1:44743
+1517949187090	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Pwf6bh51MefA"
+1517949187772	Marionette	INFO	Enabled via --marionette
+1517949190795	Marionette	INFO	Listening on port 39057
+1517949190885	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517949208086	geckodriver	INFO	geckodriver 0.19.1
+1517949208090	geckodriver	INFO	Listening on 127.0.0.1:40861
+1517949209182	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4KUvcjzKNEuS"
+1517949209808	Marionette	INFO	Enabled via --marionette
+1517949212309	Marionette	INFO	Listening on port 41249
+1517949212444	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1517949284932	geckodriver	INFO	geckodriver 0.19.1
+1517949284939	geckodriver	INFO	Listening on 127.0.0.1:41405
+1517949285083	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.FtkLLmqlBASP"
+1517949285822	Marionette	INFO	Enabled via --marionette
+1517949288426	Marionette	INFO	Listening on port 39719
+1517949288518	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 26765, Gecko_IOThread] WARNING: pipe error (88): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[Parent 26609, Gecko_IOThread] WARNING: pipe error (96): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517949696174	geckodriver	INFO	geckodriver 0.19.1
+1517949696181	geckodriver	INFO	Listening on 127.0.0.1:33943
+1517949697393	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.De20XcXlnack"
+1517949698831	Marionette	INFO	Enabled via --marionette
+1517949702241	Marionette	INFO	Listening on port 37177
+1517949702334	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 27101, Gecko_IOThread] WARNING: pipe error (81): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517950069065	geckodriver	INFO	geckodriver 0.19.1
+1517950069072	geckodriver	INFO	Listening on 127.0.0.1:45559
+1517950070169	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.w3c75HBP2VUq"
+1517950070843	Marionette	INFO	Enabled via --marionette
+1517950073331	Marionette	INFO	Listening on port 46047
+1517950073411	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 27311, Gecko_IOThread] WARNING: pipe error (81): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517950208161	geckodriver	INFO	geckodriver 0.19.1
+1517950208168	geckodriver	INFO	Listening on 127.0.0.1:42605
+1517950209260	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.5DMstidUYFjF"
+1517950209874	Marionette	INFO	Enabled via --marionette
+1517950213086	Marionette	INFO	Listening on port 43027
+1517950213191	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517950229892	geckodriver	INFO	geckodriver 0.19.1
+1517950229900	geckodriver	INFO	Listening on 127.0.0.1:54285
+1517950230989	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.uV2F81Nm9LPg"
+1517950231672	Marionette	INFO	Enabled via --marionette
+1517950234044	Marionette	INFO	Listening on port 38517
+1517950234115	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517950248830	geckodriver	INFO	geckodriver 0.19.1
+1517950248833	geckodriver	INFO	Listening on 127.0.0.1:53483
+1517950249987	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.xfjk8ZpszfYg"
+1517950250727	Marionette	INFO	Enabled via --marionette
+1517950253172	Marionette	INFO	Listening on port 40109
+1517950253215	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517950268728	geckodriver	INFO	geckodriver 0.19.1
+1517950268732	geckodriver	INFO	Listening on 127.0.0.1:58461
+1517950269989	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.WbKe5W8Cnouz"
+1517950271083	Marionette	INFO	Enabled via --marionette
+1517950274537	Marionette	INFO	Listening on port 34103
+1517950274623	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1517950383270	geckodriver	INFO	geckodriver 0.19.1
+1517950383278	geckodriver	INFO	Listening on 127.0.0.1:34075
+1517950384556	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.rmzhOrlx6JXK"
+1517950386076	Marionette	INFO	Enabled via --marionette
+1517950389413	Marionette	INFO	Listening on port 38107
+1517950389503	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 28062, Gecko_IOThread] WARNING: pipe error (83): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[Parent 27895, Gecko_IOThread] WARNING: pipe error (81): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517950612777	geckodriver	INFO	geckodriver 0.19.1
+1517950612780	geckodriver	INFO	Listening on 127.0.0.1:39153
+1517950614077	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.emZuc60OidZ8"
+1517950615207	Marionette	INFO	Enabled via --marionette
+1517950618236	Marionette	INFO	Listening on port 35209
+1517950618335	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517950632672	geckodriver	INFO	geckodriver 0.19.1
+1517950632686	geckodriver	INFO	Listening on 127.0.0.1:41217
+1517950633862	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.7qKQWjTEGhRG"
+1517950634642	Marionette	INFO	Enabled via --marionette
+1517950637610	Marionette	INFO	Listening on port 33379
+1517950637724	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517950651757	geckodriver	INFO	geckodriver 0.19.1
+1517950651768	geckodriver	INFO	Listening on 127.0.0.1:49797
+1517950653047	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Wn0QYOXDHkTW"
+1517950654185	Marionette	INFO	Enabled via --marionette
+1517950657514	Marionette	INFO	Listening on port 32783
+1517950657607	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1517950726188	geckodriver	INFO	geckodriver 0.19.1
+1517950726194	geckodriver	INFO	Listening on 127.0.0.1:39223
+1517950727786	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.5hEPZ4weVNGt"
+1517950728825	Marionette	INFO	Enabled via --marionette
+1517950732302	Marionette	INFO	Listening on port 37971
+1517950732376	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517951091738	geckodriver	INFO	geckodriver 0.19.1
+1517951091749	geckodriver	INFO	Listening on 127.0.0.1:52725
+1517951092845	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.j5NE7DzVspM3"
+1517951093593	Marionette	INFO	Enabled via --marionette
+1517951096043	Marionette	INFO	Listening on port 33307
+1517951096082	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 28877, Gecko_IOThread] WARNING: pipe error (37): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517951188066	geckodriver	INFO	geckodriver 0.19.1
+1517951188093	geckodriver	INFO	Listening on 127.0.0.1:59417
+1517951189216	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.I6VYe96qQI56"
+1517951189939	Marionette	INFO	Enabled via --marionette
+1517951192441	Marionette	INFO	Listening on port 45871
+1517951192587	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 29055, Gecko_IOThread] WARNING: pipe error (96): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[Parent 28534, Gecko_IOThread] WARNING: pipe error (37): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517951500752	geckodriver	INFO	geckodriver 0.19.1
+1517951500770	geckodriver	INFO	Listening on 127.0.0.1:36213
+1517951501878	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Ll1JPih48IrZ"
+1517951502500	Marionette	INFO	Enabled via --marionette
+1517951504906	Marionette	INFO	Listening on port 46457
+1517951505011	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517951520051	geckodriver	INFO	geckodriver 0.19.1
+1517951520059	geckodriver	INFO	Listening on 127.0.0.1:47289
+1517951521618	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.SWvhsp3yeXMb"
+1517951522316	Marionette	INFO	Enabled via --marionette
+1517951525174	Marionette	INFO	Listening on port 45369
+1517951525307	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1517951613124	geckodriver	INFO	geckodriver 0.19.1
+1517951613136	geckodriver	INFO	Listening on 127.0.0.1:37045
+1517951614245	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.kN1xJB0EQuxu"
+1517951614921	Marionette	INFO	Enabled via --marionette
+1517951617410	Marionette	INFO	Listening on port 43015
+1517951617516	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[Parent 29468, Gecko_IOThread] WARNING: pipe error (83): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518013389406	geckodriver	INFO	geckodriver 0.19.1
+1518013389413	geckodriver	INFO	Listening on 127.0.0.1:56863
+1518013390856	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Lqz2pdLAcghE"
+1518013392199	Marionette	INFO	Enabled via --marionette
+1518013396387	Marionette	INFO	Listening on port 39301
+1518013396420	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1518015294340	geckodriver	INFO	geckodriver 0.19.1
+1518015294345	geckodriver	INFO	Listening on 127.0.0.1:60293
+1518015295784	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.v9xcFKlv4xjI"
+1518015297601	Marionette	INFO	Enabled via --marionette
+1518015303993	Marionette	INFO	Listening on port 43455
+1518015304101	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1518015595383	geckodriver	INFO	geckodriver 0.19.1
+1518015595387	geckodriver	INFO	Listening on 127.0.0.1:46951
+1518015596499	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.0PUSy9n8eu77"
+1518015597210	Marionette	INFO	Enabled via --marionette
+1518015599762	Marionette	INFO	Listening on port 45269
+1518015599827	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1518015695151	geckodriver	INFO	geckodriver 0.19.1
+1518015695157	geckodriver	INFO	Listening on 127.0.0.1:42675
+1518015696645	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Xz6VxlaxlLad"
+1518015698702	Marionette	INFO	Enabled via --marionette
+1518015703850	Marionette	INFO	Listening on port 36565
+1518015703898	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1518016214866	geckodriver	INFO	geckodriver 0.19.1
+1518016214871	geckodriver	INFO	Listening on 127.0.0.1:53895
+1518016216286	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.nQ7oPk7r67MI"
+1518016218073	Marionette	INFO	Enabled via --marionette
+1518016223903	Marionette	INFO	Listening on port 40451
+1518016223930	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1518076786246	geckodriver	INFO	geckodriver 0.19.1
+1518076786255	geckodriver	INFO	Listening on 127.0.0.1:47547
+1518076787580	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.gBqzDVuWtkMM"
+1518076789307	Marionette	INFO	Enabled via --marionette
+1518076794446	Marionette	INFO	Listening on port 39029
+1518076794554	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1518076816626	geckodriver	INFO	geckodriver 0.19.1
+1518076816630	geckodriver	INFO	Listening on 127.0.0.1:33101
+1518076817991	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.269zOJOF7k9M"
+1518076819653	Marionette	INFO	Enabled via --marionette
+1518076824699	Marionette	INFO	Listening on port 34497
+1518076824754	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1518076962863	geckodriver	INFO	geckodriver 0.19.1
+1518076962874	geckodriver	INFO	Listening on 127.0.0.1:36719
+1518076964388	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.1ZGInhofnYrE"
+1518076966813	Marionette	INFO	Enabled via --marionette
+1518076974351	Marionette	INFO	Listening on port 34953
+1518076974489	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1518076996938	geckodriver	INFO	geckodriver 0.19.1
+1518076996949	geckodriver	INFO	Listening on 127.0.0.1:33175
+1518076998454	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.JiA4lxFMH5dD"
+1518077000804	Marionette	INFO	Enabled via --marionette
+1518077007375	Marionette	INFO	Listening on port 46583
+1518077007437	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1518081834908	geckodriver	INFO	geckodriver 0.19.1
+1518081834911	geckodriver	INFO	Listening on 127.0.0.1:40513
+1518081836319	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.l8Lv4Ezw2pVx"
+1518081838028	Marionette	INFO	Enabled via --marionette
+1518081843508	Marionette	INFO	Listening on port 35395
+1518081843638	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1518082013608	geckodriver	INFO	geckodriver 0.19.1
+1518082013620	geckodriver	INFO	Listening on 127.0.0.1:49795
+1518082015019	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.zcsWNUy3zRQ3"
+1518082016739	Marionette	INFO	Enabled via --marionette
+1518082022203	Marionette	INFO	Listening on port 35743
+1518082022319	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1518082124744	geckodriver	INFO	geckodriver 0.19.1
+1518082124755	geckodriver	INFO	Listening on 127.0.0.1:55059
+1518082126145	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.KohF1BvElBIu"
+1518082127809	Marionette	INFO	Enabled via --marionette
+1518082132727	Marionette	INFO	Listening on port 41537
+1518082132785	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1518082153324	geckodriver	INFO	geckodriver 0.19.1
+1518082153335	geckodriver	INFO	Listening on 127.0.0.1:49487
+1518082154708	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.LdpfvWjXc4bb"
+1518082156492	Marionette	INFO	Enabled via --marionette
+1518082161573	Marionette	INFO	Listening on port 41461
+1518082161667	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1518082706336	geckodriver	INFO	geckodriver 0.19.1
+1518082706340	geckodriver	INFO	Listening on 127.0.0.1:60269
+1518082707459	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.VvPxXMfo06Ys"
+1518082708100	Marionette	INFO	Enabled via --marionette
+1518082710538	Marionette	INFO	Listening on port 38487
+1518082710594	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1518082729560	geckodriver	INFO	geckodriver 0.19.1
+1518082729563	geckodriver	INFO	Listening on 127.0.0.1:50931
+1518082730699	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.TbgKq9UYWhS9"
+1518082731570	Marionette	INFO	Enabled via --marionette
+1518082734728	Marionette	INFO	Listening on port 42469
+1518082734869	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1518082853043	geckodriver	INFO	geckodriver 0.19.1
+1518082853045	geckodriver	INFO	Listening on 127.0.0.1:58111
+1518082854259	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.rwiDYPat1Z4f"
+1518082855363	Marionette	INFO	Enabled via --marionette
+1518082859141	Marionette	INFO	Listening on port 34357
+1518082859244	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1518083147717	geckodriver	INFO	geckodriver 0.19.1
+1518083147738	geckodriver	INFO	Listening on 127.0.0.1:43135
+1518083149020	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.vzuC8nc46M4P"
+1518083150359	Marionette	INFO	Enabled via --marionette
+1518083154003	Marionette	INFO	Listening on port 37971
+1518083154141	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1518083216822	geckodriver	INFO	geckodriver 0.19.1
+1518083216825	geckodriver	INFO	Listening on 127.0.0.1:53311
+1518083217999	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.G9gOQjAMm4C7"
+1518083218665	Marionette	INFO	Enabled via --marionette
+1518083221350	Marionette	INFO	Listening on port 44913
+1518083221438	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1518083238155	geckodriver	INFO	geckodriver 0.19.1
+1518083238163	geckodriver	INFO	Listening on 127.0.0.1:36967
+1518083239321	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.v5INPK7JD9Gs"
+1518083239942	Marionette	INFO	Enabled via --marionette
+1518083242554	Marionette	INFO	Listening on port 42891
+1518083242697	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1518083259886	geckodriver	INFO	geckodriver 0.19.1
+1518083259889	geckodriver	INFO	Listening on 127.0.0.1:37023
+1518083260997	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.D5yj74c6aAD9"
+1518083261607	Marionette	INFO	Enabled via --marionette
+1518083264041	Marionette	INFO	Listening on port 41999
+1518083264159	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1518083280836	geckodriver	INFO	geckodriver 0.19.1
+1518083280839	geckodriver	INFO	Listening on 127.0.0.1:52585
+1518083282044	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.TTGBarTJdObx"
+1518083282747	Marionette	INFO	Enabled via --marionette
+1518083285083	Marionette	INFO	Listening on port 35091
+1518083285207	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1518083713854	geckodriver	INFO	geckodriver 0.19.1
+1518083713859	geckodriver	INFO	Listening on 127.0.0.1:33095
+1518083715022	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bzMWnqbmdyYy"
+1518083715995	Marionette	INFO	Enabled via --marionette
+1518083719984	Marionette	INFO	Listening on port 36739
+1518083720118	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1518083740514	geckodriver	INFO	geckodriver 0.19.1
+1518083740518	geckodriver	INFO	Listening on 127.0.0.1:34151
+1518083741714	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.C2bn2NVHMtcY"
+1518083743481	Marionette	INFO	Enabled via --marionette
+1518083748126	Marionette	INFO	Listening on port 34773
+1518083748201	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1518083822931	geckodriver	INFO	geckodriver 0.19.1
+1518083822934	geckodriver	INFO	Listening on 127.0.0.1:36553
+1518083824088	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.LEgwT4myBaMc"
+1518083825120	Marionette	INFO	Enabled via --marionette
+1518083828918	Marionette	INFO	Listening on port 36605
+1518083829069	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1518083857964	geckodriver	INFO	geckodriver 0.19.1
+1518083857967	geckodriver	INFO	Listening on 127.0.0.1:32855
+1518083859301	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.S4RWixz6a4Nr"
+1518083860342	Marionette	INFO	Enabled via --marionette
+1518083864333	Marionette	INFO	Listening on port 43763
+1518083864458	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1518083944405	geckodriver	INFO	geckodriver 0.19.1
+1518083944409	geckodriver	INFO	Listening on 127.0.0.1:58479
+1518083945628	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.txWUTZjrvPRw"
+1518083946854	Marionette	INFO	Enabled via --marionette
+1518083949999	Marionette	INFO	Listening on port 45599
+1518083950061	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1518084123763	geckodriver	INFO	geckodriver 0.19.1
+1518084123770	geckodriver	INFO	Listening on 127.0.0.1:40627
+1518084124878	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6dAUcm3vs7oR"
+1518084125518	Marionette	INFO	Enabled via --marionette
+1518084129407	Marionette	INFO	Listening on port 34703
+1518084129515	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 93: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1518084144647	geckodriver	INFO	geckodriver 0.19.1
+1518084144652	geckodriver	INFO	Listening on 127.0.0.1:50781
+1518084145792	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.1FM8HhlYe2HU"
+1518084146549	Marionette	INFO	Enabled via --marionette
+1518084149318	Marionette	INFO	Listening on port 44087
+1518084149475	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflL_7wNw/www-embed-player.js, line 275: NS_ERROR_NOT_INITIALIZED: 
+1518084252014	geckodriver	INFO	geckodriver 0.19.1
+1518084252021	geckodriver	INFO	Listening on 127.0.0.1:33509
+1518084253188	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.msjio7OkIW6d"
+1518084253889	Marionette	INFO	Enabled via --marionette
+1518084256802	Marionette	INFO	Listening on port 43989
+1518084256891	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1518084565481	geckodriver	INFO	geckodriver 0.19.1
+1518084565499	geckodriver	INFO	Listening on 127.0.0.1:36431
+1518084568004	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Iyy2Nhska1Gr"
+1518084569276	Marionette	INFO	Enabled via --marionette
+1518084573542	Marionette	INFO	Listening on port 41919
+1518084573649	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1518085108881	geckodriver	INFO	geckodriver 0.19.1
+1518085108885	geckodriver	INFO	Listening on 127.0.0.1:51035
+1518085110018	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ap6d8VNdGDun"
+1518085110831	Marionette	INFO	Enabled via --marionette
+1518085114298	Marionette	INFO	Listening on port 40023
+1518085114415	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1518085219196	geckodriver	INFO	geckodriver 0.19.1
+1518085219204	geckodriver	INFO	Listening on 127.0.0.1:39641
+1518085220394	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.nCKOWrenpXDN"
+1518085221997	Marionette	INFO	Enabled via --marionette
+1518085226232	Marionette	INFO	Listening on port 33743
+1518085226330	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1518085251162	geckodriver	INFO	geckodriver 0.19.1
+1518085251165	geckodriver	INFO	Listening on 127.0.0.1:45639
+1518085252335	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.dxPQca2OoHPd"
+1518085253049	Marionette	INFO	Enabled via --marionette
+1518085257153	Marionette	INFO	Listening on port 39137
+1518085257220	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1518085275464	geckodriver	INFO	geckodriver 0.19.1
+1518085275467	geckodriver	INFO	Listening on 127.0.0.1:50713
+1518085276603	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Ifx3BO6pNzNf"
+1518085277304	Marionette	INFO	Enabled via --marionette
+1518085280591	Marionette	INFO	Listening on port 34699
+1518085280694	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1518085299698	geckodriver	INFO	geckodriver 0.19.1
+1518085299714	geckodriver	INFO	Listening on 127.0.0.1:45021
+1518085300881	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.FaFOxF7lJk4N"
+1518085301576	Marionette	INFO	Enabled via --marionette
+1518085305037	Marionette	INFO	Listening on port 35183
+1518085305151	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1518085323500	geckodriver	INFO	geckodriver 0.19.1
+1518085323503	geckodriver	INFO	Listening on 127.0.0.1:53487
+1518085324634	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.T4ZnREn0SaZ2"
+1518085325435	Marionette	INFO	Enabled via --marionette
+1518085329334	Marionette	INFO	Listening on port 44971
+1518085329377	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflL_7wNw/www-embed-player.js, line 275: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflL_7wNw/www-embed-player.js, line 275: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflL_7wNw/www-embed-player.js, line 275: NS_ERROR_NOT_INITIALIZED: 
+1518086453162	geckodriver	INFO	geckodriver 0.19.1
+1518086453165	geckodriver	INFO	Listening on 127.0.0.1:39477
+1518086454350	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.RJsmTTEKS09Q"
+1518086454956	Marionette	INFO	Enabled via --marionette
+1518086457550	Marionette	INFO	Listening on port 44143
+1518086457651	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 5411, Gecko_IOThread] WARNING: pipe error (37): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518086890534	geckodriver	INFO	geckodriver 0.19.1
+1518086890537	geckodriver	INFO	Listening on 127.0.0.1:52259
+1518086891670	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2Nv20NZSa8J9"
+1518086892335	Marionette	INFO	Enabled via --marionette
+1518086894929	Marionette	INFO	Listening on port 36895
+1518086895004	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1518087045264	geckodriver	INFO	geckodriver 0.19.1
+1518087045272	geckodriver	INFO	Listening on 127.0.0.1:47711
+1518087046482	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.BzwTZ4QXdA9d"
+1518087047678	Marionette	INFO	Enabled via --marionette
+1518087051421	Marionette	INFO	Listening on port 40955
+1518087051569	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 5837, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 5656, Gecko_IOThread] WARNING: pipe error (88): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518087242082	geckodriver	INFO	geckodriver 0.19.1
+1518087242100	geckodriver	INFO	Listening on 127.0.0.1:51399
+1518087243267	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.zs2QRrUTKxwt"
+1518087243891	Marionette	INFO	Enabled via --marionette
+1518087246494	Marionette	INFO	Listening on port 43919
+1518087246600	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 6027, Gecko_IOThread] WARNING: pipe error (95): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518087540854	geckodriver	INFO	geckodriver 0.19.1
+1518087540857	geckodriver	INFO	Listening on 127.0.0.1:38435
+1518087541956	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.xIPoytOj09G9"
+1518087542660	Marionette	INFO	Enabled via --marionette
+1518087545349	Marionette	INFO	Listening on port 33909
+1518087545402	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1518087562406	geckodriver	INFO	geckodriver 0.19.1
+1518087562409	geckodriver	INFO	Listening on 127.0.0.1:34367
+1518087563527	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Pk6cviLpdgVm"
+1518087564159	Marionette	INFO	Enabled via --marionette
+1518087566895	Marionette	INFO	Listening on port 35017
+1518087566950	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1518087583052	geckodriver	INFO	geckodriver 0.19.1
+1518087583056	geckodriver	INFO	Listening on 127.0.0.1:55859
+1518087584147	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.i3Er0zSqGTeZ"
+1518087584760	Marionette	INFO	Enabled via --marionette
+1518087587281	Marionette	INFO	Listening on port 35979
+1518087587407	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1518087604498	geckodriver	INFO	geckodriver 0.19.1
+1518087604501	geckodriver	INFO	Listening on 127.0.0.1:46047
+1518087605684	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.NuNAfc20IDlu"
+1518087606275	Marionette	INFO	Enabled via --marionette
+1518087608758	Marionette	INFO	Listening on port 36163
+1518087608862	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1518087625060	geckodriver	INFO	geckodriver 0.19.1
+1518087625063	geckodriver	INFO	Listening on 127.0.0.1:34767
+1518087626219	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.iYs3T7PS65uW"
+1518087626860	Marionette	INFO	Enabled via --marionette
+1518087630026	Marionette	INFO	Listening on port 42943
+1518087630115	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 6805, Gecko_IOThread] WARNING: pipe error (70): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518088190633	geckodriver	INFO	geckodriver 0.19.1
+1518088190637	geckodriver	INFO	Listening on 127.0.0.1:40799
+1518088191789	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.0gTY5XxiD7zi"
+1518088192444	Marionette	INFO	Enabled via --marionette
+1518088195330	Marionette	INFO	Listening on port 42467
+1518088195423	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 7099, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518088330312	geckodriver	INFO	geckodriver 0.19.1
+1518088330315	geckodriver	INFO	Listening on 127.0.0.1:42751
+1518088331478	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Ams9XO3X9Glq"
+1518088332238	Marionette	INFO	Enabled via --marionette
+1518088334691	Marionette	INFO	Listening on port 43813
+1518088334829	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflL_7wNw/www-embed-player.js, line 275: NS_ERROR_NOT_INITIALIZED: 
+[Parent 7268, Gecko_IOThread] WARNING: pipe error (88): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518088472082	geckodriver	INFO	geckodriver 0.19.1
+1518088472086	geckodriver	INFO	Listening on 127.0.0.1:59301
+1518088473267	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.VfqjiRPSKQyJ"
+1518088474525	Marionette	INFO	Enabled via --marionette
+1518088478125	Marionette	INFO	Listening on port 45463
+1518088478247	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflL_7wNw/www-embed-player.js, line 275: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflL_7wNw/www-embed-player.js, line 275: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflL_7wNw/www-embed-player.js, line 275: NS_ERROR_NOT_INITIALIZED: 
+1518088660600	geckodriver	INFO	geckodriver 0.19.1
+1518088660603	geckodriver	INFO	Listening on 127.0.0.1:39645
+1518088661776	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.pCHLhOgbLKcq"
+1518088662441	Marionette	INFO	Enabled via --marionette
+1518088664834	Marionette	INFO	Listening on port 41143
+1518088664929	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 7620, Gecko_IOThread] WARNING: pipe error (74): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518088976133	geckodriver	INFO	geckodriver 0.19.1
+1518088976137	geckodriver	INFO	Listening on 127.0.0.1:41399
+1518088977265	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.sfU4JtbvZi24"
+1518088977922	Marionette	INFO	Enabled via --marionette
+1518088981467	Marionette	INFO	Listening on port 42265
+1518088981567	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1518089009081	geckodriver	INFO	geckodriver 0.19.1
+1518089009084	geckodriver	INFO	Listening on 127.0.0.1:51745
+1518089010276	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.NJuLeKNNVTRi"
+1518089011273	Marionette	INFO	Enabled via --marionette
+1518089014402	Marionette	INFO	Listening on port 43817
+1518089014506	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1518089038022	geckodriver	INFO	geckodriver 0.19.1
+1518089038030	geckodriver	INFO	Listening on 127.0.0.1:48043
+1518089039223	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.pPYYZFwTZkG8"
+1518089040314	Marionette	INFO	Enabled via --marionette
+1518089043770	Marionette	INFO	Listening on port 37707
+1518089043894	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1518089067908	geckodriver	INFO	geckodriver 0.19.1
+1518089067916	geckodriver	INFO	Listening on 127.0.0.1:35277
+1518089069206	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.TZh3D9pZ9A2N"
+1518089070303	Marionette	INFO	Enabled via --marionette
+1518089074127	Marionette	INFO	Listening on port 34519
+1518089074228	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1518089103993	geckodriver	INFO	geckodriver 0.19.1
+1518089103996	geckodriver	INFO	Listening on 127.0.0.1:38697
+1518089105280	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.SXUUCK3hNgvz"
+1518089106267	Marionette	INFO	Enabled via --marionette
+1518089109370	Marionette	INFO	Listening on port 38883
+1518089109466	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1518089192622	geckodriver	INFO	geckodriver 0.19.1
+1518089192628	geckodriver	INFO	Listening on 127.0.0.1:38001
+1518089193864	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bBwYaCfAlDHx"
+1518089194867	Marionette	INFO	Enabled via --marionette
+1518089198708	Marionette	INFO	Listening on port 34901
+1518089198823	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 8548, Gecko_IOThread] WARNING: pipe error (70): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518089391122	geckodriver	INFO	geckodriver 0.19.1
+1518089391126	geckodriver	INFO	Listening on 127.0.0.1:37511
+1518089392307	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.kIHkLuG05E2k"
+1518089393472	Marionette	INFO	Enabled via --marionette
+1518089397504	Marionette	INFO	Listening on port 34835
+1518089399546	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1518089439215	geckodriver	INFO	geckodriver 0.19.1
+1518089439221	geckodriver	INFO	Listening on 127.0.0.1:46087
+1518089440407	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.g4Zk2yr7r9bf"
+1518089441567	Marionette	INFO	Enabled via --marionette
+1518089445361	Marionette	INFO	Listening on port 36787
+1518089445469	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 8862, Gecko_IOThread] WARNING: pipe error (37): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518096127338	geckodriver	INFO	geckodriver 0.19.1
+1518096127341	geckodriver	INFO	Listening on 127.0.0.1:49269
+1518096128478	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.B6Pp4OdcWLqL"
+1518096129153	Marionette	INFO	Enabled via --marionette
+1518096131618	Marionette	INFO	Listening on port 40027
+1518096131712	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 10067, Gecko_IOThread] WARNING: pipe error (84): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518096605026	geckodriver	INFO	geckodriver 0.19.1
+1518096605031	geckodriver	INFO	Listening on 127.0.0.1:42003
+1518096606220	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.SDfwF449x8O3"
+1518096606854	Marionette	INFO	Enabled via --marionette
+1518096609289	Marionette	INFO	Listening on port 43689
+1518096609375	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 10292, Gecko_IOThread] WARNING: pipe error (85): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518096778739	geckodriver	INFO	geckodriver 0.19.1
+1518096778747	geckodriver	INFO	Listening on 127.0.0.1:49337
+1518096779857	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.T1k2WadBQCTr"
+1518096780532	Marionette	INFO	Enabled via --marionette
+1518096783156	Marionette	INFO	Listening on port 33441
+1518096783230	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1518096800760	geckodriver	INFO	geckodriver 0.19.1
+1518096800763	geckodriver	INFO	Listening on 127.0.0.1:34515
+1518096801889	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.I55Zj9IoQZSP"
+1518096802536	Marionette	INFO	Enabled via --marionette
+1518096805512	Marionette	INFO	Listening on port 39493
+1518096805639	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1518096821986	geckodriver	INFO	geckodriver 0.19.1
+1518096821992	geckodriver	INFO	Listening on 127.0.0.1:55855
+1518096823109	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.10tcgEiCcGEb"
+1518096824126	Marionette	INFO	Enabled via --marionette
+1518096827738	Marionette	INFO	Listening on port 41025
+1518096827882	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1518096843250	geckodriver	INFO	geckodriver 0.19.1
+1518096843253	geckodriver	INFO	Listening on 127.0.0.1:47327
+1518096844389	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.c74OB60qz13E"
+1518096844995	Marionette	INFO	Enabled via --marionette
+1518096847820	Marionette	INFO	Listening on port 38077
+1518096847946	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 10892, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518097103054	geckodriver	INFO	geckodriver 0.19.1
+1518097103057	geckodriver	INFO	Listening on 127.0.0.1:36515
+1518097104202	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.0pGHFiEiBSCI"
+1518097104875	Marionette	INFO	Enabled via --marionette
+1518097107306	Marionette	INFO	Listening on port 43073
+1518097107336	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflL_7wNw/www-embed-player.js, line 275: NS_ERROR_NOT_INITIALIZED: 
+[Parent 11122, Gecko_IOThread] WARNING: pipe error (84): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518097304212	geckodriver	INFO	geckodriver 0.19.1
+1518097304215	geckodriver	INFO	Listening on 127.0.0.1:44551
+1518097305453	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.h2xmJISXRxHj"
+1518097306499	Marionette	INFO	Enabled via --marionette
+1518097310182	Marionette	INFO	Listening on port 35233
+1518097310279	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 11349, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518098210154	geckodriver	INFO	geckodriver 0.19.1
+1518098210158	geckodriver	INFO	Listening on 127.0.0.1:60415
+1518098211272	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.yz2VduaCIJmk"
+1518098211928	Marionette	INFO	Enabled via --marionette
+1518098214324	Marionette	INFO	Listening on port 40117
+1518098214402	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 12088, Gecko_IOThread] WARNING: pipe error (37): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518098356633	geckodriver	INFO	geckodriver 0.19.1
+1518098356636	geckodriver	INFO	Listening on 127.0.0.1:34267
+1518098356862	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.hZMLFTZXnQlX"
+1518098358156	Marionette	INFO	Enabled via --marionette
+1518098361623	Marionette	INFO	Listening on port 38661
+1518098361695	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 12269, Gecko_IOThread] WARNING: pipe error (37): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518098660669	geckodriver	INFO	geckodriver 0.19.1
+1518098660672	geckodriver	INFO	Listening on 127.0.0.1:40347
+1518098661789	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.YRufgUuEybae"
+1518098662436	Marionette	INFO	Enabled via --marionette
+1518098664986	Marionette	INFO	Listening on port 35747
+1518098665107	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 12470, Gecko_IOThread] WARNING: pipe error (82): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518099690180	geckodriver	INFO	geckodriver 0.19.1
+1518099690187	geckodriver	INFO	Listening on 127.0.0.1:38999
+1518099691306	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.aA6j9FsMiCMJ"
+1518099692351	Marionette	INFO	Enabled via --marionette
+1518099696286	Marionette	INFO	Listening on port 40169
+1518099696387	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 12770, Gecko_IOThread] WARNING: pipe error (66): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518099974126	geckodriver	INFO	geckodriver 0.19.1
+1518099974132	geckodriver	INFO	Listening on 127.0.0.1:41929
+1518099975367	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.8mb5Olpb8P0h"
+1518099976375	Marionette	INFO	Enabled via --marionette
+1518099980080	Marionette	INFO	Listening on port 33161
+1518099980113	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 12942, Gecko_IOThread] WARNING: pipe error (37): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518100229411	geckodriver	INFO	geckodriver 0.19.1
+1518100229416	geckodriver	INFO	Listening on 127.0.0.1:57911
+1518100230552	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4c8NJF2SXRK5"
+1518100231176	Marionette	INFO	Enabled via --marionette
+1518100233646	Marionette	INFO	Listening on port 41073
+1518100233686	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 13126, Gecko_IOThread] WARNING: pipe error (37): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518100405959	geckodriver	INFO	geckodriver 0.19.1
+1518100405963	geckodriver	INFO	Listening on 127.0.0.1:40395
+1518100407100	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qxdZkTfqepii"
+1518100407778	Marionette	INFO	Enabled via --marionette
+1518100410175	Marionette	INFO	Listening on port 38779
+1518100410222	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 13302, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518100575525	geckodriver	INFO	geckodriver 0.19.1
+1518100575534	geckodriver	INFO	Listening on 127.0.0.1:45539
+1518100576692	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.92e3RcotGtwY"
+1518100577308	Marionette	INFO	Enabled via --marionette
+1518100579716	Marionette	INFO	Listening on port 37925
+1518100579814	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflL_7wNw/www-embed-player.js, line 275: NS_ERROR_NOT_INITIALIZED: 
+[Parent 13487, Gecko_IOThread] WARNING: pipe error (84): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518100831469	geckodriver	INFO	geckodriver 0.19.1
+1518100831473	geckodriver	INFO	Listening on 127.0.0.1:48811
+1518100832590	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.j9aBVDl5tb42"
+1518100833216	Marionette	INFO	Enabled via --marionette
+1518100835581	Marionette	INFO	Listening on port 35761
+1518100835619	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 13708, Gecko_IOThread] WARNING: pipe error (37): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518101805749	geckodriver	INFO	geckodriver 0.19.1
+1518101805752	geckodriver	INFO	Listening on 127.0.0.1:52139
+1518101806854	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ZI26DvmHaJ3z"
+1518101807465	Marionette	INFO	Enabled via --marionette
+1518101810147	Marionette	INFO	Listening on port 41569
+1518101810192	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflL_7wNw/www-embed-player.js, line 275: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflL_7wNw/www-embed-player.js, line 275: NS_ERROR_NOT_INITIALIZED: 
+[Parent 14012, Gecko_IOThread] WARNING: pipe error (98): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518102506557	geckodriver	INFO	geckodriver 0.19.1
+1518102506560	geckodriver	INFO	Listening on 127.0.0.1:39231
+1518102507801	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.I3rKibZIagQ4"
+1518102508827	Marionette	INFO	Enabled via --marionette
+1518102511912	Marionette	INFO	Listening on port 37325
+1518102511980	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 14374, Gecko_IOThread] WARNING: pipe error (37): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518102791326	geckodriver	INFO	geckodriver 0.19.1
+1518102791333	geckodriver	INFO	Listening on 127.0.0.1:40677
+1518102792471	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Jvf9Jn00FUqd"
+1518102793128	Marionette	INFO	Enabled via --marionette
+1518102796082	Marionette	INFO	Listening on port 44915
+1518102796207	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflL_7wNw/www-embed-player.js, line 275: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflL_7wNw/www-embed-player.js, line 275: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.youtube.com/yts/jsbin/www-embed-player-vflL_7wNw/www-embed-player.js, line 275: NS_ERROR_NOT_INITIALIZED: 
+[Parent 14603, Gecko_IOThread] WARNING: pipe error (37): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518103035402	geckodriver	INFO	geckodriver 0.19.1
+1518103035405	geckodriver	INFO	Listening on 127.0.0.1:56207
+1518103036552	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.B29VOTMaVMO5"
+1518103037247	Marionette	INFO	Enabled via --marionette
+1518103039612	Marionette	INFO	Listening on port 34865
+1518103039671	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 14788, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518103229753	geckodriver	INFO	geckodriver 0.19.1
+1518103229756	geckodriver	INFO	Listening on 127.0.0.1:51997
+1518103230931	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.97rbouI6te8y"
+1518103231568	Marionette	INFO	Enabled via --marionette
+1518103233913	Marionette	INFO	Listening on port 39111
+1518103233983	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 14972, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518103874152	geckodriver	INFO	geckodriver 0.19.1
+1518103874155	geckodriver	INFO	Listening on 127.0.0.1:55445
+1518103875283	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.m2SVDxFwx5gv"
+1518103875922	Marionette	INFO	Enabled via --marionette
+1518103878275	Marionette	INFO	Listening on port 34371
+1518103878319	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 15206, Gecko_IOThread] WARNING: pipe error (37): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1518103950116	geckodriver	INFO	geckodriver 0.19.1
+1518103950120	geckodriver	INFO	Listening on 127.0.0.1:46421
+1518103951369	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.d1rZSe28n57i"
+1518103952355	Marionette	INFO	Enabled via --marionette
+1518103956080	Marionette	INFO	Listening on port 35021
+1518103956113	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 15376, Gecko_IOThread] WARNING: pipe error (88): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518736431526	geckodriver	INFO	geckodriver 0.19.1
+1518736431537	geckodriver	INFO	Listening on 127.0.0.1:55573
+1518736434064	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.NHXmN8zdHESc"
+1518736435997	addons.manager	DEBUG	Application has been upgraded
+1518736436044	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/XPIProvider.jsm: ["XPIProvider", "XPIInternal"]
+1518736436047	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/LightweightThemeManager.jsm: ["LightweightThemeManager"]
+1518736436100	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/GMPProvider.jsm
+1518736436103	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/PluginProvider.jsm
+1518736436103	addons.manager	DEBUG	Starting provider: XPIProvider
+1518736436103	addons.xpi	DEBUG	startup
+1518736436103	addons.xpi	INFO	SystemAddonInstallLocation directory is missing
+1518736436103	addons.xpi	INFO	Removing all system add-on upgrades.
+1518736436107	addons.xpi	DEBUG	checkForChanges
+1518736436109	addons.xpi	DEBUG	Loaded add-on state: ${}
+1518736436129	addons.xpi	INFO	Mapping activity-stream@mozilla.org to /usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi
+1518736436130	addons.xpi	INFO	Mapping aushelper@mozilla.org to /usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi
+1518736436130	addons.xpi	INFO	Mapping firefox@getpocket.com to /usr/lib/firefox/browser/features/firefox@getpocket.com.xpi
+1518736436130	addons.xpi	INFO	Mapping followonsearch@mozilla.com to /usr/lib/firefox/browser/features/followonsearch@mozilla.com.xpi
+1518736436130	addons.xpi	INFO	Mapping formautofill@mozilla.org to /usr/lib/firefox/browser/features/formautofill@mozilla.org.xpi
+1518736436130	addons.xpi	INFO	Mapping onboarding@mozilla.org to /usr/lib/firefox/browser/features/onboarding@mozilla.org.xpi
+1518736436130	addons.xpi	INFO	Mapping screenshots@mozilla.org to /usr/lib/firefox/browser/features/screenshots@mozilla.org.xpi
+1518736436130	addons.xpi	INFO	Mapping shield-recipe-client@mozilla.org to /usr/lib/firefox/browser/features/shield-recipe-client@mozilla.org.xpi
+1518736436130	addons.xpi	INFO	Mapping webcompat@mozilla.org to /usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi
+1518736436132	addons.xpi	DEBUG	New add-on activity-stream@mozilla.org in app-system-defaults
+1518736436133	addons.xpi	INFO	Mapping activity-stream@mozilla.org to /usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi
+1518736436134	addons.xpi	DEBUG	New add-on aushelper@mozilla.org in app-system-defaults
+1518736436135	addons.xpi	INFO	Mapping aushelper@mozilla.org to /usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi
+1518736436135	addons.xpi	DEBUG	New add-on firefox@getpocket.com in app-system-defaults
+1518736436135	addons.xpi	INFO	Mapping firefox@getpocket.com to /usr/lib/firefox/browser/features/firefox@getpocket.com.xpi
+1518736436135	addons.xpi	DEBUG	New add-on followonsearch@mozilla.com in app-system-defaults
+1518736436135	addons.xpi	INFO	Mapping followonsearch@mozilla.com to /usr/lib/firefox/browser/features/followonsearch@mozilla.com.xpi
+1518736436135	addons.xpi	DEBUG	New add-on formautofill@mozilla.org in app-system-defaults
+1518736436136	addons.xpi	INFO	Mapping formautofill@mozilla.org to /usr/lib/firefox/browser/features/formautofill@mozilla.org.xpi
+1518736436136	addons.xpi	DEBUG	New add-on onboarding@mozilla.org in app-system-defaults
+1518736436136	addons.xpi	INFO	Mapping onboarding@mozilla.org to /usr/lib/firefox/browser/features/onboarding@mozilla.org.xpi
+1518736436136	addons.xpi	DEBUG	New add-on screenshots@mozilla.org in app-system-defaults
+1518736436136	addons.xpi	INFO	Mapping screenshots@mozilla.org to /usr/lib/firefox/browser/features/screenshots@mozilla.org.xpi
+1518736436136	addons.xpi	DEBUG	New add-on shield-recipe-client@mozilla.org in app-system-defaults
+1518736436136	addons.xpi	INFO	Mapping shield-recipe-client@mozilla.org to /usr/lib/firefox/browser/features/shield-recipe-client@mozilla.org.xpi
+1518736436137	addons.xpi	DEBUG	New add-on webcompat@mozilla.org in app-system-defaults
+1518736436137	addons.xpi	INFO	Mapping webcompat@mozilla.org to /usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi
+1518736436138	addons.xpi	INFO	Mapping langpack-en-GB@firefox.mozilla.org to /usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi
+1518736436139	addons.xpi	INFO	Mapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to /usr/lib/firefox/browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi
+1518736436139	addons.xpi	INFO	Mapping langpack-en-ZA@firefox.mozilla.org to /usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi
+1518736436139	addons.xpi	DEBUG	New add-on langpack-en-GB@firefox.mozilla.org in app-global
+1518736436139	addons.xpi	INFO	Mapping langpack-en-GB@firefox.mozilla.org to /usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi
+1518736436140	addons.xpi	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} in app-global
+1518736436140	addons.xpi	INFO	Mapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to /usr/lib/firefox/browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi
+1518736436140	addons.xpi	DEBUG	New add-on langpack-en-ZA@firefox.mozilla.org in app-global
+1518736436140	addons.xpi	INFO	Mapping langpack-en-ZA@firefox.mozilla.org to /usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi
+1518736436141	addons.xpi	DEBUG	getInstallState changed: true, state: {}
+1518736436141	addons.xpi	INFO	SystemAddonInstallLocation directory is missing
+1518736436154	addons.xpi-utils	DEBUG	Opening XPI database /tmp/rust_mozprofile.NHXmN8zdHESc/extensions.json
+1518736436163	addons.xpi-utils	DEBUG	New add-on activity-stream@mozilla.org installed in app-system-defaults
+*** Blocklist::_loadBlocklistFromFile: blocklist is disabled
+1518736436332	addons.xpi-utils	DEBUG	New add-on aushelper@mozilla.org installed in app-system-defaults
+1518736436338	addons.xpi-utils	DEBUG	New add-on firefox@getpocket.com installed in app-system-defaults
+1518736436343	addons.xpi-utils	DEBUG	New add-on followonsearch@mozilla.com installed in app-system-defaults
+1518736436349	addons.xpi-utils	DEBUG	New add-on formautofill@mozilla.org installed in app-system-defaults
+1518736436356	addons.xpi-utils	DEBUG	New add-on onboarding@mozilla.org installed in app-system-defaults
+1518736436362	addons.xpi-utils	DEBUG	New add-on screenshots@mozilla.org installed in app-system-defaults
+1518736436367	addons.xpi-utils	DEBUG	New add-on shield-recipe-client@mozilla.org installed in app-system-defaults
+1518736436381	addons.xpi-utils	DEBUG	New add-on webcompat@mozilla.org installed in app-system-defaults
+1518736436383	addons.xpi-utils	DEBUG	New add-on langpack-en-GB@firefox.mozilla.org installed in app-global
+1518736437080	addons.xpi-utils	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} installed in app-global
+1518736437100	addons.xpi-utils	DEBUG	New add-on langpack-en-ZA@firefox.mozilla.org installed in app-global
+1518736437136	addons.manager	DEBUG	Registering startup change 'installed' for activity-stream@mozilla.org
+1518736437163	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi
+1518736437186	addons.xpi	DEBUG	Calling bootstrap method install on activity-stream@mozilla.org version 2018.01.04.0062-4997c81d
+1518736437187	addons.xpi-utils	DEBUG	Make addon app-system-defaults:activity-stream@mozilla.org visible
+1518736437191	addons.xpi	DEBUG	Updating XPIState for {"id":"activity-stream@mozilla.org","syncGUID":"{137fe600-7201-4283-b82d-6f38620d125b}","location":"app-system-defaults","version":"2018.01.04.0062-4997c81d","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Activity Stream","description":"A rich visual history feed and a reimagined home page make it easier than ever to find exactly what you're looking for in Firefox.","creator":null,"homepageURL":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1518123749000,"updateDate":1518123749000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi","skinnable":false,"size":2644086,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"58.0.2","maxVersion":"58.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1518736437206	addons.manager	DEBUG	Registering startup change 'installed' for aushelper@mozilla.org
+1518736437208	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi
+1518736437228	addons.xpi	DEBUG	Calling bootstrap method install on aushelper@mozilla.org version 2.0
+1518736437228	addons.xpi-utils	DEBUG	Make addon app-system-defaults:aushelper@mozilla.org visible
+1518736437229	addons.xpi	DEBUG	Updating XPIState for {"id":"aushelper@mozilla.org","syncGUID":"{e22ab326-1177-4188-9a38-ec6e360b7bc2}","location":"app-system-defaults","version":"2.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Application Update Service Helper","description":"Sets value(s) in the update url based on custom checks.","creator":null,"homepageURL":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1518123749000,"updateDate":1518123749000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi","skinnable":false,"size":8488,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"58.0.2","maxVersion":"58.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1518736437229	addons.manager	DEBUG	Registering startup change 'installed' for firefox@getpocket.com
+1518736437230	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/firefox@getpocket.com.xpi
+1518736437254	addons.xpi	DEBUG	Calling bootstrap method install on firefox@getpocket.com version 1.0.5
+1518736437254	addons.xpi-utils	DEBUG	Make addon app-system-defaults:firefox@getpocket.com visible
+1518736437254	addons.xpi	DEBUG	Updating XPIState for {"id":"firefox@getpocket.com","syncGUID":"{298d56ba-d55b-44e2-8082-1c4e919c94b0}","location":"app-system-defaults","version":"1.0.5","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Pocket","description":"When you find something you want to view later, put it in Pocket.","creator":null,"homepageURL":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1518123749000,"updateDate":1518123749000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/usr/lib/firefox/browser/features/firefox@getpocket.com.xpi","skinnable":false,"size":909573,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"58.0.2","maxVersion":"58.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1518736437255	addons.manager	DEBUG	Registering startup change 'installed' for followonsearch@mozilla.com
+1518736437255	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/followonsearch@mozilla.com.xpi
+1518736437264	addons.xpi	DEBUG	Calling bootstrap method install on followonsearch@mozilla.com version 0.9.6
+1518736437264	addons.xpi-utils	DEBUG	Make addon app-system-defaults:followonsearch@mozilla.com visible
+1518736437264	addons.xpi	DEBUG	Updating XPIState for {"id":"followonsearch@mozilla.com","syncGUID":"{3e98d830-9498-4613-8f78-96d04c17a5e6}","location":"app-system-defaults","version":"0.9.6","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Follow-on Search Telemetry","description":null,"creator":null,"homepageURL":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1518123749000,"updateDate":1518123749000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/usr/lib/firefox/browser/features/followonsearch@mozilla.com.xpi","skinnable":false,"size":18625,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"52.0","maxVersion":"59.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1518736437264	addons.manager	DEBUG	Registering startup change 'installed' for formautofill@mozilla.org
+1518736437266	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/formautofill@mozilla.org.xpi
+1518736437272	addons.xpi	DEBUG	Calling bootstrap method install on formautofill@mozilla.org version 1.0
+1518736437272	addons.xpi-utils	DEBUG	Make addon app-system-defaults:formautofill@mozilla.org visible
+1518736437273	addons.xpi	DEBUG	Updating XPIState for {"id":"formautofill@mozilla.org","syncGUID":"{3fde88ec-cbe0-43c2-a3eb-1cd427f20d19}","location":"app-system-defaults","version":"1.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Form Autofill","description":"Autofill forms with saved profiles","creator":null,"homepageURL":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1518123749000,"updateDate":1518123749000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/usr/lib/firefox/browser/features/formautofill@mozilla.org.xpi","skinnable":false,"size":418452,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"58.0.2","maxVersion":"58.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1518736437274	addons.manager	DEBUG	Registering startup change 'installed' for onboarding@mozilla.org
+1518736437278	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/onboarding@mozilla.org.xpi
+1518736437298	addons.xpi	DEBUG	Calling bootstrap method install on onboarding@mozilla.org version 1.0
+1518736437299	addons.xpi-utils	DEBUG	Make addon app-system-defaults:onboarding@mozilla.org visible
+1518736437300	addons.xpi	DEBUG	Updating XPIState for {"id":"onboarding@mozilla.org","syncGUID":"{27ab3702-8dd8-492c-ad85-f9235447c68f}","location":"app-system-defaults","version":"1.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Photon onboarding","description":"Photon onboarding","creator":null,"homepageURL":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1518123749000,"updateDate":1518123749000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/usr/lib/firefox/browser/features/onboarding@mozilla.org.xpi","skinnable":false,"size":541753,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"58.0.2","maxVersion":"58.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1518736437300	addons.manager	DEBUG	Registering startup change 'installed' for screenshots@mozilla.org
+1518736437301	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/screenshots@mozilla.org.xpi
+1518736437639	addons.xpi	DEBUG	Calling bootstrap method install on screenshots@mozilla.org version 25.0.0
+1518736437640	addons.xpi-utils	DEBUG	Make addon app-system-defaults:screenshots@mozilla.org visible
+1518736437640	addons.xpi	DEBUG	Updating XPIState for {"id":"screenshots@mozilla.org","syncGUID":"{7b7a88e0-f0fa-4e71-9169-bad4b3e65fa7}","location":"app-system-defaults","version":"25.0.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Firefox Screenshots","description":null,"creator":null,"homepageURL":"https://screenshots.firefox.com/"},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1518123749000,"updateDate":1518123749000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/usr/lib/firefox/browser/features/screenshots@mozilla.org.xpi","skinnable":false,"size":994512,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"57.0a1","maxVersion":"*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1518736437641	addons.manager	DEBUG	Registering startup change 'installed' for shield-recipe-client@mozilla.org
+1518736437643	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/shield-recipe-client@mozilla.org.xpi
+1518736437647	addons.xpi	DEBUG	Calling bootstrap method install on shield-recipe-client@mozilla.org version 76.1
+1518736437648	addons.xpi-utils	DEBUG	Make addon app-system-defaults:shield-recipe-client@mozilla.org visible
+1518736437648	addons.xpi	DEBUG	Updating XPIState for {"id":"shield-recipe-client@mozilla.org","syncGUID":"{6dfb3e2b-ed3d-44d0-a10d-43fbf0593b62}","location":"app-system-defaults","version":"76.1","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Shield Recipe Client","description":"Client to download and run recipes for SHIELD, Heartbeat, etc.","creator":null,"homepageURL":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1518123749000,"updateDate":1518123749000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/usr/lib/firefox/browser/features/shield-recipe-client@mozilla.org.xpi","skinnable":false,"size":364001,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"58.0.2","maxVersion":"58.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1518736437648	addons.manager	DEBUG	Registering startup change 'installed' for webcompat@mozilla.org
+1518736437648	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi
+1518736437649	addons.xpi	DEBUG	Calling bootstrap method install on webcompat@mozilla.org version 1.1
+1518736437649	addons.xpi-utils	DEBUG	Make addon app-system-defaults:webcompat@mozilla.org visible
+1518736437650	addons.xpi	DEBUG	Updating XPIState for {"id":"webcompat@mozilla.org","syncGUID":"{203226bd-d432-49a0-8ad1-6cc199c8a4ed}","location":"app-system-defaults","version":"1.1","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Web Compat","description":"Urgent post-release fixes for web compatibility.","creator":null,"homepageURL":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1518123749000,"updateDate":1518123749000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi","skinnable":false,"size":9268,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"58.0.2","maxVersion":"58.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1518736437650	addons.manager	DEBUG	Registering startup change 'installed' for langpack-en-GB@firefox.mozilla.org
+1518736437651	addons.manager	DEBUG	Registering startup change 'installed' for langpack-en-GB@firefox.mozilla.org
+1518736437651	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi
+1518736437653	addons.xpi	DEBUG	Calling bootstrap method install on langpack-en-GB@firefox.mozilla.org version 58.0.2
+1518736437653	addons.xpi-utils	DEBUG	Make addon app-global:langpack-en-GB@firefox.mozilla.org visible
+1518736437654	addons.xpi	DEBUG	Updating XPIState for {"id":"langpack-en-GB@firefox.mozilla.org","syncGUID":"{8515d5b7-8351-412c-bb79-99f9706e5753}","location":"app-global","version":"58.0.2","type":"webextension-langpack","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"optionsBrowserStyle":true,"aboutURL":null,"defaultLocale":{"name":"English (GB) Language Pack","description":"Language pack for Firefox for en-GB","creator":"Mark Tyndall (contributors: David Bartlett, Constantine Murenin, Ian Neal)","developers":null,"translators":null,"contributors":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1518124808000,"updateDate":1518124808000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi","skinnable":false,"size":1261102,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":true,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"toolkit@mozilla.org","minVersion":"58.0.2","maxVersion":"58.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":{"chromeEntries":[["locale","necko","en-GB","chrome/en-GB/locale/en-GB/necko/"],["locale","pdf.js","en-GB","browser/chrome/en-GB/locale/pdfviewer/"],["locale","global","en-GB","chrome/en-GB/locale/en-GB/global/"],["locale","onboarding","en-GB","browser/features/onboarding@mozilla.org/en-GB/locale/en-GB/"],["locale","devtools","en-GB","browser/chrome/en-GB/locale/en-GB/devtools/client/"],["locale","pipnss","en-GB","chrome/en-GB/locale/en-GB/pipnss/"],["locale","devtools-shim","en-GB","browser/chrome/en-GB/locale/en-GB/devtools/shim/"],["locale","alerts","en-GB","chrome/en-GB/locale/en-GB/alerts/"],["locale","branding","en-GB","browser/chrome/en-GB/locale/branding/"],["locale","autoconfig","en-GB","chrome/en-GB/locale/en-GB/autoconfig/"],["locale","devtools-shared","en-GB","browser/chrome/en-GB/locale/en-GB/devtools/shared/"],["locale","global-platform","en-GB","chrome/en-GB/locale/en-GB/global-platform/unix/"],["locale","browser-region","en-GB","browser/chrome/en-GB/locale/browser-region/"],["locale","mozapps","en-GB","chrome/en-GB/locale/en-GB/mozapps/"],["locale","pluginproblem","en-GB","chrome/en-GB/locale/en-GB/pluginproblem/"],["locale","formautofill","en-GB","browser/features/formautofill@mozilla.org/en-GB/locale/en-GB/"],["locale","weave","en-GB","chrome/en-GB/locale/en-GB/services/"],["locale","pocket","en-GB","browser/features/firefox@getpocket.com/en-GB/locale/en-GB/"],["locale","places","en-GB","chrome/en-GB/locale/en-GB/places/"],["locale","passwordmgr","en-GB","chrome/en-GB/locale/en-GB/passwordmgr/"],["locale","pippki","en-GB","chrome/en-GB/locale/en-GB/pippki/"],["locale","browser","en-GB","browser/chrome/en-GB/locale/browser/"]]}}
+1518736437654	addons.xpi-utils	DEBUG	Make addon app-global:{972ce4c6-7e08-4474-a285-3208198ce6fd} visible
+1518736437655	addons.xpi	DEBUG	Updating XPIState for {"id":"{972ce4c6-7e08-4474-a285-3208198ce6fd}","syncGUID":"{72356192-02a5-4b7a-97bf-2ae3f89e26cf}","location":"app-global","version":"58.0.2","type":"theme","internalName":"classic/1.0","updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"optionsBrowserStyle":null,"aboutURL":null,"defaultLocale":{"name":"Default","description":"The default theme.","creator":"Mozilla","homepageURL":null,"contributors":["Mozilla Contributors"]},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1518123749000,"updateDate":1518123749000,"applyBackgroundUpdates":1,"path":"/usr/lib/firefox/browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","skinnable":true,"size":2097,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"58.0.2","maxVersion":"58.0.2"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":"chrome://browser/content/default-theme-icon.svg","icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1518736437655	addons.manager	DEBUG	Registering startup change 'installed' for langpack-en-ZA@firefox.mozilla.org
+1518736437655	addons.manager	DEBUG	Registering startup change 'installed' for langpack-en-ZA@firefox.mozilla.org
+1518736437656	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi
+1518736437656	addons.xpi	DEBUG	Calling bootstrap method install on langpack-en-ZA@firefox.mozilla.org version 58.0.2
+1518736437657	addons.xpi-utils	DEBUG	Make addon app-global:langpack-en-ZA@firefox.mozilla.org visible
+1518736437657	addons.xpi	DEBUG	Updating XPIState for {"id":"langpack-en-ZA@firefox.mozilla.org","syncGUID":"{d8a3014e-a127-4d4a-8ebf-4f7441e275fd}","location":"app-global","version":"58.0.2","type":"webextension-langpack","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"optionsBrowserStyle":true,"aboutURL":null,"defaultLocale":{"name":"English (South Africa) Language Pack","description":"Language pack for Firefox for en-ZA","creator":"Translate.org.za (contributors: Translate.org.za, Dwayne Bailey)","developers":null,"translators":null,"contributors":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1518124808000,"updateDate":1518124808000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi","skinnable":false,"size":1231461,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":true,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"toolkit@mozilla.org","minVersion":"58.0.2","maxVersion":"58.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":{"chromeEntries":[["locale","necko","en-ZA","chrome/en-ZA/locale/en-ZA/necko/"],["locale","pdf.js","en-ZA","browser/chrome/en-ZA/locale/pdfviewer/"],["locale","global","en-ZA","chrome/en-ZA/locale/en-ZA/global/"],["locale","onboarding","en-ZA","browser/features/onboarding@mozilla.org/en-ZA/locale/en-ZA/"],["locale","devtools","en-ZA","browser/chrome/en-ZA/locale/en-ZA/devtools/client/"],["locale","pipnss","en-ZA","chrome/en-ZA/locale/en-ZA/pipnss/"],["locale","devtools-shim","en-ZA","browser/chrome/en-ZA/locale/en-ZA/devtools/shim/"],["locale","alerts","en-ZA","chrome/en-ZA/locale/en-ZA/alerts/"],["locale","branding","en-ZA","browser/chrome/en-ZA/locale/branding/"],["locale","autoconfig","en-ZA","chrome/en-ZA/locale/en-ZA/autoconfig/"],["locale","devtools-shared","en-ZA","browser/chrome/en-ZA/locale/en-ZA/devtools/shared/"],["locale","global-platform","en-ZA","chrome/en-ZA/locale/en-ZA/global-platform/unix/"],["locale","browser-region","en-ZA","browser/chrome/en-ZA/locale/browser-region/"],["locale","mozapps","en-ZA","chrome/en-ZA/locale/en-ZA/mozapps/"],["locale","pluginproblem","en-ZA","chrome/en-ZA/locale/en-ZA/pluginproblem/"],["locale","formautofill","en-ZA","browser/features/formautofill@mozilla.org/en-ZA/locale/en-ZA/"],["locale","weave","en-ZA","chrome/en-ZA/locale/en-ZA/services/"],["locale","pocket","en-ZA","browser/features/firefox@getpocket.com/en-ZA/locale/en-ZA/"],["locale","places","en-ZA","chrome/en-ZA/locale/en-ZA/places/"],["locale","passwordmgr","en-ZA","chrome/en-ZA/locale/en-ZA/passwordmgr/"],["locale","pippki","en-ZA","chrome/en-ZA/locale/en-ZA/pippki/"],["locale","browser","en-ZA","browser/chrome/en-ZA/locale/browser/"]]}}
+1518736437657	addons.xpi	DEBUG	Updating XPIState for {"id":"activity-stream@mozilla.org","syncGUID":"{137fe600-7201-4283-b82d-6f38620d125b}","location":"app-system-defaults","version":"2018.01.04.0062-4997c81d","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Activity Stream","description":"A rich visual history feed and a reimagined home page make it easier than ever to find exactly what you're looking for in Firefox.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1518123749000,"updateDate":1518123749000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi","skinnable":false,"size":2644086,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"58.0.2","maxVersion":"58.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1518736437657	addons.xpi	DEBUG	Updating XPIState for {"id":"aushelper@mozilla.org","syncGUID":"{e22ab326-1177-4188-9a38-ec6e360b7bc2}","location":"app-system-defaults","version":"2.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Application Update Service Helper","description":"Sets value(s) in the update url based on custom checks.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1518123749000,"updateDate":1518123749000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi","skinnable":false,"size":8488,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"58.0.2","maxVersion":"58.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1518736437657	addons.xpi	DEBUG	Updating XPIState for {"id":"firefox@getpocket.com","syncGUID":"{298d56ba-d55b-44e2-8082-1c4e919c94b0}","location":"app-system-defaults","version":"1.0.5","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Pocket","description":"When you find something you want to view later, put it in Pocket.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1518123749000,"updateDate":1518123749000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/usr/lib/firefox/browser/features/firefox@getpocket.com.xpi","skinnable":false,"size":909573,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"58.0.2","maxVersion":"58.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1518736437658	addons.xpi	DEBUG	Updating XPIState for {"id":"followonsearch@mozilla.com","syncGUID":"{3e98d830-9498-4613-8f78-96d04c17a5e6}","location":"app-system-defaults","version":"0.9.6","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Follow-on Search Telemetry","description":null,"creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1518123749000,"updateDate":1518123749000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/usr/lib/firefox/browser/features/followonsearch@mozilla.com.xpi","skinnable":false,"size":18625,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"52.0","maxVersion":"59.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1518736437658	addons.xpi	DEBUG	Updating XPIState for {"id":"formautofill@mozilla.org","syncGUID":"{3fde88ec-cbe0-43c2-a3eb-1cd427f20d19}","location":"app-system-defaults","version":"1.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Form Autofill","description":"Autofill forms with saved profiles","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1518123749000,"updateDate":1518123749000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/usr/lib/firefox/browser/features/formautofill@mozilla.org.xpi","skinnable":false,"size":418452,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"58.0.2","maxVersion":"58.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1518736437658	addons.xpi	DEBUG	Updating XPIState for {"id":"onboarding@mozilla.org","syncGUID":"{27ab3702-8dd8-492c-ad85-f9235447c68f}","location":"app-system-defaults","version":"1.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Photon onboarding","description":"Photon onboarding","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1518123749000,"updateDate":1518123749000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/usr/lib/firefox/browser/features/onboarding@mozilla.org.xpi","skinnable":false,"size":541753,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"58.0.2","maxVersion":"58.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1518736437658	addons.xpi	DEBUG	Updating XPIState for {"id":"screenshots@mozilla.org","syncGUID":"{7b7a88e0-f0fa-4e71-9169-bad4b3e65fa7}","location":"app-system-defaults","version":"25.0.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Firefox Screenshots","description":null,"creator":null,"homepageURL":"https://screenshots.firefox.com/"},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1518123749000,"updateDate":1518123749000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/usr/lib/firefox/browser/features/screenshots@mozilla.org.xpi","skinnable":false,"size":994512,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"57.0a1","maxVersion":"*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1518736437658	addons.xpi	DEBUG	Updating XPIState for {"id":"shield-recipe-client@mozilla.org","syncGUID":"{6dfb3e2b-ed3d-44d0-a10d-43fbf0593b62}","location":"app-system-defaults","version":"76.1","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Shield Recipe Client","description":"Client to download and run recipes for SHIELD, Heartbeat, etc.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1518123749000,"updateDate":1518123749000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/usr/lib/firefox/browser/features/shield-recipe-client@mozilla.org.xpi","skinnable":false,"size":364001,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"58.0.2","maxVersion":"58.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1518736437658	addons.xpi	DEBUG	Updating XPIState for {"id":"webcompat@mozilla.org","syncGUID":"{203226bd-d432-49a0-8ad1-6cc199c8a4ed}","location":"app-system-defaults","version":"1.1","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"defaultLocale":{"name":"Web Compat","description":"Urgent post-release fixes for web compatibility.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1518123749000,"updateDate":1518123749000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi","skinnable":false,"size":9268,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"58.0.2","maxVersion":"58.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1518736437658	addons.xpi	DEBUG	Updating XPIState for {"id":"langpack-en-GB@firefox.mozilla.org","syncGUID":"{8515d5b7-8351-412c-bb79-99f9706e5753}","location":"app-global","version":"58.0.2","type":"webextension-langpack","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"optionsBrowserStyle":true,"aboutURL":null,"defaultLocale":{"name":"English (GB) Language Pack","description":"Language pack for Firefox for en-GB","creator":"Mark Tyndall (contributors: David Bartlett, Constantine Murenin, Ian Neal)","developers":null,"translators":null,"contributors":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1518124808000,"updateDate":1518124808000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi","skinnable":false,"size":1261102,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":true,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"toolkit@mozilla.org","minVersion":"58.0.2","maxVersion":"58.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":{"chromeEntries":[["locale","necko","en-GB","chrome/en-GB/locale/en-GB/necko/"],["locale","pdf.js","en-GB","browser/chrome/en-GB/locale/pdfviewer/"],["locale","global","en-GB","chrome/en-GB/locale/en-GB/global/"],["locale","onboarding","en-GB","browser/features/onboarding@mozilla.org/en-GB/locale/en-GB/"],["locale","devtools","en-GB","browser/chrome/en-GB/locale/en-GB/devtools/client/"],["locale","pipnss","en-GB","chrome/en-GB/locale/en-GB/pipnss/"],["locale","devtools-shim","en-GB","browser/chrome/en-GB/locale/en-GB/devtools/shim/"],["locale","alerts","en-GB","chrome/en-GB/locale/en-GB/alerts/"],["locale","branding","en-GB","browser/chrome/en-GB/locale/branding/"],["locale","autoconfig","en-GB","chrome/en-GB/locale/en-GB/autoconfig/"],["locale","devtools-shared","en-GB","browser/chrome/en-GB/locale/en-GB/devtools/shared/"],["locale","global-platform","en-GB","chrome/en-GB/locale/en-GB/global-platform/unix/"],["locale","browser-region","en-GB","browser/chrome/en-GB/locale/browser-region/"],["locale","mozapps","en-GB","chrome/en-GB/locale/en-GB/mozapps/"],["locale","pluginproblem","en-GB","chrome/en-GB/locale/en-GB/pluginproblem/"],["locale","formautofill","en-GB","browser/features/formautofill@mozilla.org/en-GB/locale/en-GB/"],["locale","weave","en-GB","chrome/en-GB/locale/en-GB/services/"],["locale","pocket","en-GB","browser/features/firefox@getpocket.com/en-GB/locale/en-GB/"],["locale","places","en-GB","chrome/en-GB/locale/en-GB/places/"],["locale","passwordmgr","en-GB","chrome/en-GB/locale/en-GB/passwordmgr/"],["locale","pippki","en-GB","chrome/en-GB/locale/en-GB/pippki/"],["locale","browser","en-GB","browser/chrome/en-GB/locale/browser/"]]}}
+1518736437658	addons.xpi	DEBUG	Updating XPIState for {"id":"{972ce4c6-7e08-4474-a285-3208198ce6fd}","syncGUID":"{72356192-02a5-4b7a-97bf-2ae3f89e26cf}","location":"app-global","version":"58.0.2","type":"theme","internalName":"classic/1.0","updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"optionsBrowserStyle":null,"aboutURL":null,"defaultLocale":{"name":"Default","description":"The default theme.","creator":"Mozilla","homepageURL":null,"contributors":["Mozilla Contributors"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1518123749000,"updateDate":1518123749000,"applyBackgroundUpdates":1,"path":"/usr/lib/firefox/browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","skinnable":true,"size":2097,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"58.0.2","maxVersion":"58.0.2"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":"chrome://browser/content/default-theme-icon.svg","icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":null}
+1518736437658	addons.xpi	DEBUG	Updating XPIState for {"id":"langpack-en-ZA@firefox.mozilla.org","syncGUID":"{d8a3014e-a127-4d4a-8ebf-4f7441e275fd}","location":"app-global","version":"58.0.2","type":"webextension-langpack","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"optionsBrowserStyle":true,"aboutURL":null,"defaultLocale":{"name":"English (South Africa) Language Pack","description":"Language pack for Firefox for en-ZA","creator":"Translate.org.za (contributors: Translate.org.za, Dwayne Bailey)","developers":null,"translators":null,"contributors":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1518124808000,"updateDate":1518124808000,"applyBackgroundUpdates":1,"bootstrap":true,"path":"/usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi","skinnable":false,"size":1231461,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":true,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"toolkit@mozilla.org","minVersion":"58.0.2","maxVersion":"58.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":{"chromeEntries":[["locale","necko","en-ZA","chrome/en-ZA/locale/en-ZA/necko/"],["locale","pdf.js","en-ZA","browser/chrome/en-ZA/locale/pdfviewer/"],["locale","global","en-ZA","chrome/en-ZA/locale/en-ZA/global/"],["locale","onboarding","en-ZA","browser/features/onboarding@mozilla.org/en-ZA/locale/en-ZA/"],["locale","devtools","en-ZA","browser/chrome/en-ZA/locale/en-ZA/devtools/client/"],["locale","pipnss","en-ZA","chrome/en-ZA/locale/en-ZA/pipnss/"],["locale","devtools-shim","en-ZA","browser/chrome/en-ZA/locale/en-ZA/devtools/shim/"],["locale","alerts","en-ZA","chrome/en-ZA/locale/en-ZA/alerts/"],["locale","branding","en-ZA","browser/chrome/en-ZA/locale/branding/"],["locale","autoconfig","en-ZA","chrome/en-ZA/locale/en-ZA/autoconfig/"],["locale","devtools-shared","en-ZA","browser/chrome/en-ZA/locale/en-ZA/devtools/shared/"],["locale","global-platform","en-ZA","chrome/en-ZA/locale/en-ZA/global-platform/unix/"],["locale","browser-region","en-ZA","browser/chrome/en-ZA/locale/browser-region/"],["locale","mozapps","en-ZA","chrome/en-ZA/locale/en-ZA/mozapps/"],["locale","pluginproblem","en-ZA","chrome/en-ZA/locale/en-ZA/pluginproblem/"],["locale","formautofill","en-ZA","browser/features/formautofill@mozilla.org/en-ZA/locale/en-ZA/"],["locale","weave","en-ZA","chrome/en-ZA/locale/en-ZA/services/"],["locale","pocket","en-ZA","browser/features/firefox@getpocket.com/en-ZA/locale/en-ZA/"],["locale","places","en-ZA","chrome/en-ZA/locale/en-ZA/places/"],["locale","passwordmgr","en-ZA","chrome/en-ZA/locale/en-ZA/passwordmgr/"],["locale","pippki","en-ZA","chrome/en-ZA/locale/en-ZA/pippki/"],["locale","browser","en-ZA","browser/chrome/en-ZA/locale/browser/"]]}}
+1518736437658	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1518736437659	addons.xpi-utils	DEBUG	Updating add-on states
+1518736437670	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi
+1518736437672	addons.xpi	DEBUG	Calling bootstrap method startup on activity-stream@mozilla.org version 2018.01.04.0062-4997c81d
+1518736437674	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi
+1518736437674	addons.xpi	DEBUG	Calling bootstrap method startup on aushelper@mozilla.org version 2.0
+1518736437675	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/firefox@getpocket.com.xpi
+1518736437676	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.5
+1518736437709	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/followonsearch@mozilla.com.xpi
+1518736437710	addons.xpi	DEBUG	Calling bootstrap method startup on followonsearch@mozilla.com version 0.9.6
+1518736437710	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/formautofill@mozilla.org.xpi
+1518736437712	addons.xpi	DEBUG	Calling bootstrap method startup on formautofill@mozilla.org version 1.0
+1518736437713	addons.xpi	DEBUG	Calling bootstrap method startup on langpack-en-GB@firefox.mozilla.org version 58.0.2
+1518736437717	addons.xpi	DEBUG	Calling bootstrap method startup on langpack-en-ZA@firefox.mozilla.org version 58.0.2
+1518736437718	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/onboarding@mozilla.org.xpi
+1518736437722	addons.xpi	DEBUG	Calling bootstrap method startup on onboarding@mozilla.org version 1.0
+1518736437723	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/screenshots@mozilla.org.xpi
+1518736437723	addons.xpi	DEBUG	Calling bootstrap method startup on screenshots@mozilla.org version 25.0.0
+1518736437723	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/shield-recipe-client@mozilla.org.xpi
+1518736437987	addons.xpi	DEBUG	Calling bootstrap method startup on shield-recipe-client@mozilla.org version 76.1
+1518736438026	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi
+1518736438029	addons.xpi	DEBUG	Calling bootstrap method startup on webcompat@mozilla.org version 1.1
+1518736438037	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1518736438037	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1518736438037	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1518736438037	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1518736438037	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1518736438038	addons.manager	DEBUG	Starting provider: GMPProvider
+1518736438056	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1518736438057	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1518736438057	addons.manager	DEBUG	Starting provider: PluginProvider
+1518736438057	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1518736438057	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1518736438061	addons.manager	DEBUG	Completed startup sequence
+1518736439012	Marionette	INFO	Enabled via --marionette
+1518736441630	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1518736441632	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1518736441632	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+1518736522244	geckodriver	INFO	geckodriver 0.19.1
+1518736522250	geckodriver	INFO	Listening on 127.0.0.1:41237
+1518736523385	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.algVnxZD8HOR"
+1518736524841	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://shield-recipe-client/lib/PreferenceExperiments.jsm, line 154: TypeError: Object is undefined
+Promise rejected after context unloaded: Message manager disconnected
+console.error: 
+  Message: Error: Connection closed before committing the transaction.
+  Stack:
+    executeTransaction/promise</transactionPromise<@resource://gre/modules/Sqlite.jsm:617:19
+observe@resource://gre/modules/AsyncShutdown.jsm:535:9
+
+1518736650358	geckodriver	INFO	geckodriver 0.19.1
+1518736650363	geckodriver	INFO	Listening on 127.0.0.1:49579
+1518736650519	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.sGpIP1KRIFL0"
+1518736652057	Marionette	INFO	Enabled via --marionette
+ExceptionHandler::GenerateDump cloned child 6608
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+JavaScript error: resource://shield-recipe-client/lib/PreferenceExperiments.jsm, line 154: TypeError: Object is undefined
+[Parent 6523, Gecko_IOThread] WARNING: pipe error (70): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 6523, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 6523, Gecko_IOThread] WARNING: pipe error (61): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 6523, Gecko_IOThread] WARNING: pipe error (45): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 6523, Gecko_IOThread] WARNING: pipe error (43): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518736798390	geckodriver	INFO	geckodriver 0.19.1
+1518736798394	geckodriver	INFO	Listening on 127.0.0.1:50529
+1518736798537	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.trHjff2GuyOV"
+1518736799655	Marionette	INFO	Enabled via --marionette
+1518736802796	Marionette	INFO	Listening on port 34473
+1518736802890	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 6646, Gecko_IOThread] WARNING: pipe error (94): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1518736997258	geckodriver	INFO	geckodriver 0.19.1
+1518736997261	geckodriver	INFO	Listening on 127.0.0.1:57559
+1518736998519	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.7aL0r57iAyQK"
+*** You are running in headless mode.
+1518736999150	Marionette	INFO	Enabled via --marionette
+1518737000924	Marionette	INFO	Listening on port 46621
+1518737000942	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1518737704283	geckodriver	INFO	geckodriver 0.19.1
+1518737704286	geckodriver	INFO	Listening on 127.0.0.1:32775
+1518737705431	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.NtBNxbrfvGHK"
+*** You are running in headless mode.
+1518737706120	Marionette	INFO	Enabled via --marionette
+1518737707588	Marionette	INFO	Listening on port 42611
+1518737707651	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1518739889242	geckodriver	INFO	geckodriver 0.19.1
+1518739889248	geckodriver	INFO	Listening on 127.0.0.1:59859
+1518739889403	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.l9aVBoihEcWw"
+*** You are running in headless mode.
+1518739890412	Marionette	INFO	Enabled via --marionette
+1518739893078	Marionette	INFO	Listening on port 45189
+1518739893167	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2268, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 2237, Chrome_ChildThread] WARNING: pipe error (15): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2237, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518777059471	geckodriver	INFO	geckodriver 0.19.1
+1518777059475	geckodriver	INFO	Listening on 127.0.0.1:42164
+1518780346548	geckodriver	INFO	geckodriver 0.19.1
+1518780346551	geckodriver	INFO	Listening on 127.0.0.1:46969
+1518780347677	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.ZhhBx6nhtKeV"
+*** You are running in headless mode.
+1518780348101	Marionette	INFO	Enabled via --marionette
+1518780349653	Marionette	INFO	Listening on port 41602
+1518780349688	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 1676, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 1636, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518783228174	geckodriver	INFO	geckodriver 0.19.1
+1518783228177	geckodriver	INFO	Listening on 127.0.0.1:53401
+1518783229305	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.b6jsojSvUXns"
+*** You are running in headless mode.
+1518783229734	Marionette	INFO	Enabled via --marionette
+1518783231301	Marionette	INFO	Listening on port 37846
+1518783231322	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2965, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2926, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518784204365	geckodriver	INFO	geckodriver 0.19.1
+1518784204369	geckodriver	INFO	Listening on 127.0.0.1:57871
+1518784205496	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.JqE0OZZgugxu"
+*** You are running in headless mode.
+1518784205935	Marionette	INFO	Enabled via --marionette
+1518784207521	Marionette	INFO	Listening on port 36232
+1518784207605	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 3539, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 3579, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518786029970	geckodriver	INFO	geckodriver 0.19.1
+1518786029974	geckodriver	INFO	Listening on 127.0.0.1:55496
+1518786031101	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.cU97hIHehi33"
+*** You are running in headless mode.
+1518786031531	Marionette	INFO	Enabled via --marionette
+1518786032954	Marionette	INFO	Listening on port 46133
+1518786033010	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4966, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 4924, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353

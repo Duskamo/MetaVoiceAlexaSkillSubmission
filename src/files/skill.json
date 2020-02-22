@@ -1,0 +1,39 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "summary": "mok",
+          "examplePhrases": [
+            "kmo",
+            "mok",
+            "omk"
+          ],
+          "name": "kmo_test12_test12",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/3276/4a8753ba86234c469025bbff058f8e57/APP_ICON?versionId=AJJRjxV8djNVFbui6ITQ2.9skCCYBiDz&AWSAccessKeyId=AKIAI3X6PUXD7CU5F5BQ&Expires=1521776745&Signature=7kAUDhX5VSlRKflbn7YcLVNG76A%3D",
+          "description": "mok",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/e318/5887046c6ac24c2eba4fc4197bdc9101/APP_ICON_LARGE?versionId=i8zX2gNyqYAbxE2l5wNy248SG2dj9l81&AWSAccessKeyId=AKIAI3X6PUXD7CU5F5BQ&Expires=1521776745&Signature=w65Gzl5NcAd0Qn3HayvREcNNLu0%3D"
+        }
+      },
+      "isAvailableWorldwide": true,
+      "testingInstructions": "Smart Home - nj",
+      "category": "SMART_HOME",
+      "distributionCountries": []
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:us-east-1:902905436917:function:kmo_test12_test12"
+        }
+      }
+    },
+    "manifestVersion": "1.0",
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "isExportCompliant": true,
+      "containsAds": false,
+      "isChildDirected": false,
+      "usesPersonalInfo": false
+    }
+  }
+}

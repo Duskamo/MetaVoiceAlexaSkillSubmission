@@ -1,0 +1,32 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "omk",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "intent",
+          "samples": [
+           "kmo",
+            "mok",
+            "omk",
+	    "mok",
+            "mok"
+          ]
+        }
+      ]
+    }
+  }
+}
+

@@ -1,0 +1,10 @@
+#!/bin/bash
+
+skillName="$1"
+file="$2"
+
+#echo "Creating lambda file..."
+
+ask api update-model -s ${skillName} -f ${file} -l en-US
+
+#echo "Lambda creation complete..."

@@ -1,0 +1,57 @@
+1518738427208	geckodriver	INFO	geckodriver 0.19.1
+1518738427215	geckodriver	INFO	Listening on 127.0.0.1:51781
+1518738428360	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.T9CuQJ1zWOId"
+*** You are running in headless mode.
+1518738429470	Marionette	INFO	Enabled via --marionette
+1518738446653	Marionette	INFO	Listening on port 36997
+1518738449334	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518738791067	geckodriver	INFO	geckodriver 0.19.1
+1518738791072	geckodriver	INFO	Listening on 127.0.0.1:50621
+1518738792228	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.DvbSVaYXoPxx"
+*** You are running in headless mode.
+1518738793176	Marionette	INFO	Enabled via --marionette
+1518738794831	Marionette	INFO	Listening on port 43579
+1518738794851	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1518777195795	geckodriver	INFO	geckodriver 0.19.1
+1518777195799	geckodriver	INFO	Listening on 127.0.0.1:45713
+1518777196919	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.MF4IHh3jZUeG"
+*** You are running in headless mode.
+1518777197362	Marionette	INFO	Enabled via --marionette
+1518777198973	Marionette	INFO	Listening on port 40514
+1518777199030	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+
+(/usr/lib/firefox/firefox:32718): dconf-CRITICAL **: unable to create directory '/home/ubuntu/.cache/dconf': Permission denied.  dconf will not work properly.
+
+(/usr/lib/firefox/firefox:32718): dconf-CRITICAL **: unable to create directory '/home/ubuntu/.cache/dconf': Permission denied.  dconf will not work properly.
+
+(/usr/lib/firefox/firefox:32718): dconf-CRITICAL **: unable to create directory '/home/ubuntu/.cache/dconf': Permission denied.  dconf will not work properly.
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1518779627335	geckodriver	INFO	geckodriver 0.19.1
+1518779627351	geckodriver	INFO	Listening on 127.0.0.1:40834
+1518779628506	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.81Ie7WQQ0hMp"
+*** You are running in headless mode.
+1518779629305	Marionette	INFO	Enabled via --marionette
+1518780060872	Marionette	INFO	Listening on port 39891
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 32718, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 1303, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 1347, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
